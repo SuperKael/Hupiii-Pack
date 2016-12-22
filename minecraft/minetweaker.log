@@ -1,0 +1,1809 @@
+ERROR: system: AutoSpawner is already defined in that package
+INFO: MineTweaker: Building registry
+INFO: MineTweaker: Sucessfully built item registry
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: 
+INFO: Adding minetweaker command appeng
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command modifiers
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command research
+INFO: Adding minetweaker command aspectList
+INFO: Adding minetweaker command thermalexpansion
+INFO: Adding minetweaker command mfr
+ERROR: AE2.zs:43: Could not resolve <exnihilo : iron_dust>
+ERROR: AE2.zs:44: Could not resolve <exnihilo : aluminum_dust>
+ERROR: AE2.zs:45: Could not resolve <exnihilo : silver_dust>
+ERROR: AE2.zs:46: Could not resolve <exnihilo : tin_dust>
+ERROR: AE2.zs:47: Could not resolve <exnihilo : nickel_dust>
+ERROR: AE2.zs:48: Could not resolve <exnihilo : copper_dust>
+ERROR: AE2.zs:49: Could not resolve <exnihilo : gold_dust>
+ERROR: AE2.zs:50: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: AE2.zs:51: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: AE2.zs:43 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:44 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:45 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:46 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:47 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:48 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:49 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:50 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:51 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+INFO: Initializing 'AE2'...
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_horse_armor>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_horse_armor>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_horse_armor>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:saddle>
+INFO: Initialized 'AE2'
+INFO: Initializing 'EnderIO'...
+INFO: Adding recipe for Broken Spawner
+INFO: Initialized 'EnderIO'
+ERROR: FurnaceRecipes.zs:59: Could not resolve <excompressum : compressed_dust : 6>
+ERROR: FurnaceRecipes.zs:60: Could not resolve <excompressum : compressed_dust : 6>
+INFO: Initializing 'FurnaceRecipes'...
+INFO: Adding furnace recipe for <BigReactors:BRIngot:4>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: Adding furnace recipe for <minecraft:quartz>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:11>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:10>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:16>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:23>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:17>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:24>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:18>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:22>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:3>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:7>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:12>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:45>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:stained_glass:14>
+INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
+ERROR: [ModTweaker2] Required parameters missing for Thermal Expansion Furnace Recipe.
+INFO: Initialized 'FurnaceRecipies'
+INFO: Initializing 'IE'...
+INFO: Removing ArcFurnace Recipe for Yellorium Ingot
+INFO: Adding ArcFurnace Recipe for Yellorium Ingot
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Coke Oven Recipe for Charcoal
+INFO: Initialized 'IE'
+ERROR: Lore.zs:10: Could not resolve <excompressum : compressedHammerWood>
+ERROR: Lore.zs:12: Could not resolve <excompressum : compressedHammerStone>
+ERROR: Lore.zs:14: Could not resolve <excompressum : compressedHammerIron>
+ERROR: Lore.zs:16: Could not resolve <excompressum : compressedHammerGold>
+ERROR: Lore.zs:18: Could not resolve <excompressum : compressedHammerDiamond>
+INFO: Initializing 'Lore'...
+ERROR: Error executing Lore.zs: Truncated class file
+java.lang.ClassFormatError: Truncated class file
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at stanhebben.zenscript.ZenModule$MyClassLoader.findClass(ZenModule.java:335)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at Lore.__script__(Lore.zs:10)
+	at __ZenMain__.run(Lore.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:161)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:2>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:1>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:4>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:3>
+INFO: Initialized 'MFR'
+ERROR: OreDict.zs:18: Could not resolve <exnihilo : lead_dust : 0>
+ERROR: OreDict.zs:19: Could not resolve <exnihilo : nickel_dust : 0>
+ERROR: OreDict.zs:20: Could not resolve <exnihilo : silver_dust : 0>
+ERROR: OreDict.zs:21: Could not resolve <exnihilo : platinum_dust : 0>
+ERROR: OreDict.zs:22: Could not resolve <exnihilo : tin_dust : 0>
+ERROR: OreDict.zs:23: Could not resolve <exnihilo : gold_dust : 0>
+ERROR: OreDict.zs:24: Could not resolve <exnihilo : copper_dust : 0>
+ERROR: OreDict.zs:25: Could not resolve <exnihilo : aluminum_dust : 0>
+ERROR: OreDict.zs:26: Could not resolve <exnihilo : iron_dust : 0>
+ERROR: OreDict.zs:27: Could not resolve <exnihilo : nether_nickel_gravel : 0>
+ERROR: OreDict.zs:28: Could not resolve <exnihilo : nether_copper_gravel : 0>
+ERROR: OreDict.zs:29: Could not resolve <exnihilo : nether_gold_gravel : 0>
+ERROR: OreDict.zs:30: Could not resolve <exnihilo : nether_iron_gravel : 0>
+ERROR: OreDict.zs:31: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: OreDict.zs:32: Could not resolve <exastris : ArditeOreBlock : 2>
+INFO: Initializing 'OreDict'...
+INFO: Copying contents of ore dictionary entry ingotAluminum to ingotAluminium
+INFO: Mirroring ingotAluminium to ingotAluminum
+INFO: Adding Aluminium Nugget to ore dictionary entry nuggetAluminium
+INFO: Adding Sulfur to ore dictionary entry dustSulfur
+INFO: Adding Clear Glass to ore dictionary entry glass
+INFO: Adding Flour to ore dictionary entry dustWheat
+INFO: Adding Barley Flour to ore dictionary entry dustWheat
+INFO: Adding Wheat Flour to ore dictionary entry dustWheat
+INFO: Adding Flour to ore dictionary entry dustWheat
+INFO: Adding Flour to ore dictionary entry dustWheat
+INFO: Adding Flour to ore dictionary entry foodFlour
+INFO: Adding Barley Flour to ore dictionary entry foodFlour
+INFO: Adding Wheat Flour to ore dictionary entry foodFlour
+INFO: Adding Flour to ore dictionary entry foodFlour
+INFO: Adding Flour to ore dictionary entry foodFlour
+INFO: Initialized 'OreDict'
+ERROR: PamTreeSieve.zs:6 > No such member: exnihilo
+ERROR: Error executing PamTreeSieve.zs: 2
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:154)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:202)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:111)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: Pulverizer.zs:33: Could not resolve <exnihilo : aluminum_sand>
+ERROR: Pulverizer.zs:34: Could not resolve <exnihilo : aluminum_gravel>
+ERROR: Pulverizer.zs:33 > 2 methods available but none matches the parameters (int, any, minetweaker.item.IItemStack)
+This is usually an error in your script, not in the mod
+ERROR: Pulverizer.zs:34 > 2 methods available but none matches the parameters (int, any, minetweaker.item.IItemStack)
+This is usually an error in your script, not in the mod
+INFO: Initializing 'Pulverizer'...
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_boots>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_boots>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:saddle>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_boots>
+INFO: Initialized 'Pulverizer'
+INFO: Initializing 'Removal'...
+INFO: Hiding item.SeedBagAccio in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SeedBagCrucio in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SeedBagImperio in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SeedBagZivicio in NEI
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Initialized 'Removal'
+ERROR: ShapedRecipes.zs:36: Could not resolve <excompressum : chickenStick>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+INFO: Initializing 'ShapedRecipes'...
+INFO: Removing 1 recipes
+INFO: Adding recipe for Weather Crystal
+INFO: Removing 1 recipes
+INFO: Adding recipe for Diamond Nugget
+INFO: Removing 1 recipes
+INFO: Adding recipe for Safari Net (Single-Use)
+INFO: Removing 1 recipes
+INFO: Adding recipe for Deep Storage Unit
+INFO: Removing 1 recipes
+INFO: Adding recipe for Pink Generator
+INFO: Adding recipe for Printed Calculation Circuit
+INFO: Adding recipe for Printed Engineering Circuit
+INFO: Adding recipe for Printed Logic Circuit
+INFO: Adding recipe for ME Terminal
+ERROR: Error executing ShapedRecipes.zs: null
+java.lang.NullPointerException
+	at minetweaker.mc1710.recipes.MCRecipeManager$ActionAddRecipe.describe(MCRecipeManager.java:382)
+	at minetweaker.runtime.MTTweaker.apply(MTTweaker.java:50)
+	at minetweaker.MineTweakerAPI.apply(MineTweakerAPI.java:176)
+	at minetweaker.mc1710.recipes.MCRecipeManager.addShaped(MCRecipeManager.java:399)
+	at minetweaker.mc1710.recipes.MCRecipeManager.addShaped(MCRecipeManager.java:102)
+	at ShapedRecipes.__script__(ShapedRecipes.zs:36)
+	at __ZenMain__.run(ShapedRecipes.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:161)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: ShapelessRecipes.zs:17: Could not resolve <exnihilo : exnihilo . aluminum_broken>
+ERROR: ShapelessRecipes.zs:17: Could not resolve <exnihilo : aluminum_gravel>
+ERROR: ShapelessRecipes.zs:18: Could not resolve <exnihilo : exnihilo . aluminum_powdered>
+ERROR: ShapelessRecipes.zs:18: Could not resolve <exnihilo : aluminum_dust>
+ERROR: ShapelessRecipes.zs:19: Could not resolve <exnihilo : exnihilo . aluminum_crushed>
+ERROR: ShapelessRecipes.zs:19: Could not resolve <exnihilo : aluminum_sand>
+ERROR: ShapelessRecipes.zs:21: Could not resolve <exnihilo : exnihilo . iron_broken>
+ERROR: ShapelessRecipes.zs:21: Could not resolve <exnihilo : iron_gravel>
+ERROR: ShapelessRecipes.zs:22: Could not resolve <exnihilo : exnihilo . iron_crushed>
+ERROR: ShapelessRecipes.zs:22: Could not resolve <exnihilo : iron_sand>
+ERROR: ShapelessRecipes.zs:23: Could not resolve <exnihilo : exnihilo . iron_powdered>
+ERROR: ShapelessRecipes.zs:23: Could not resolve <exnihilo : iron_dust>
+ERROR: ShapelessRecipes.zs:25: Could not resolve <exnihilo : exnihilo . copper_broken>
+ERROR: ShapelessRecipes.zs:25: Could not resolve <exnihilo : copper_gravel>
+ERROR: ShapelessRecipes.zs:26: Could not resolve <exnihilo : exnihilo . copper_crushed>
+ERROR: ShapelessRecipes.zs:26: Could not resolve <exnihilo : copper_sand>
+ERROR: ShapelessRecipes.zs:27: Could not resolve <exnihilo : exnihilo . copper_powdered>
+ERROR: ShapelessRecipes.zs:27: Could not resolve <exnihilo : copper_dust>
+ERROR: ShapelessRecipes.zs:29: Could not resolve <exnihilo : exnihilo . gold_broken>
+ERROR: ShapelessRecipes.zs:29: Could not resolve <exnihilo : gold_gravel>
+ERROR: ShapelessRecipes.zs:30: Could not resolve <exnihilo : exnihilo . gold_crushed>
+ERROR: ShapelessRecipes.zs:30: Could not resolve <exnihilo : gold_sand>
+ERROR: ShapelessRecipes.zs:31: Could not resolve <exnihilo : exnihilo . gold_powdered>
+ERROR: ShapelessRecipes.zs:31: Could not resolve <exnihilo : gold_dust>
+ERROR: ShapelessRecipes.zs:33: Could not resolve <exnihilo : exnihilo . tin_broken>
+ERROR: ShapelessRecipes.zs:33: Could not resolve <exnihilo : tin_gravel>
+ERROR: ShapelessRecipes.zs:34: Could not resolve <exnihilo : exnihilo . tin_crushed>
+ERROR: ShapelessRecipes.zs:34: Could not resolve <exnihilo : tin_sand>
+ERROR: ShapelessRecipes.zs:35: Could not resolve <exnihilo : exnihilo . tin_powdered>
+ERROR: ShapelessRecipes.zs:35: Could not resolve <exnihilo : tin_dust>
+ERROR: ShapelessRecipes.zs:37: Could not resolve <exnihilo : exnihilo . silver_broken>
+ERROR: ShapelessRecipes.zs:37: Could not resolve <exnihilo : silver_gravel>
+ERROR: ShapelessRecipes.zs:38: Could not resolve <exnihilo : exnihilo . silver_crushed>
+ERROR: ShapelessRecipes.zs:38: Could not resolve <exnihilo : silver_sand>
+ERROR: ShapelessRecipes.zs:39: Could not resolve <exnihilo : exnihilo . silver_powdered>
+ERROR: ShapelessRecipes.zs:39: Could not resolve <exnihilo : silver_dust>
+ERROR: ShapelessRecipes.zs:41: Could not resolve <exnihilo : exnihilo . platinum_broken>
+ERROR: ShapelessRecipes.zs:41: Could not resolve <exnihilo : platinum_gravel>
+ERROR: ShapelessRecipes.zs:42: Could not resolve <exnihilo : exnihilo . platinum_crushed>
+ERROR: ShapelessRecipes.zs:42: Could not resolve <exnihilo : platinum_sand>
+ERROR: ShapelessRecipes.zs:43: Could not resolve <exnihilo : exnihilo . platinum_powdered>
+ERROR: ShapelessRecipes.zs:43: Could not resolve <exnihilo : platinum_dust>
+ERROR: ShapelessRecipes.zs:45: Could not resolve <exnihilo : exnihilo . nickel_broken>
+ERROR: ShapelessRecipes.zs:45: Could not resolve <exnihilo : nickel_gravel>
+ERROR: ShapelessRecipes.zs:46: Could not resolve <exnihilo : exnihilo . nickel_crushed>
+ERROR: ShapelessRecipes.zs:46: Could not resolve <exnihilo : nickel_sand>
+ERROR: ShapelessRecipes.zs:47: Could not resolve <exnihilo : exnihilo . nickel_powdered>
+ERROR: ShapelessRecipes.zs:47: Could not resolve <exnihilo : nickel_dust>
+ERROR: ShapelessRecipes.zs:49: Could not resolve <exnihilo : exnihilo . lead_broken>
+ERROR: ShapelessRecipes.zs:49: Could not resolve <exnihilo : lead_gravel>
+ERROR: ShapelessRecipes.zs:50: Could not resolve <exnihilo : exnihilo . lead_crushed>
+ERROR: ShapelessRecipes.zs:50: Could not resolve <exnihilo : lead_sand>
+ERROR: ShapelessRecipes.zs:51: Could not resolve <exnihilo : exnihilo . lead_powdered>
+ERROR: ShapelessRecipes.zs:51: Could not resolve <exnihilo : lead_dust>
+ERROR: ShapelessRecipes.zs:53: Could not resolve <exnihilo : exnihilo . nether_iron_broken>
+ERROR: ShapelessRecipes.zs:53: Could not resolve <exnihilo : nether_iron_gravel>
+ERROR: ShapelessRecipes.zs:54: Could not resolve <exnihilo : exnihilo . nether_gold_broken>
+ERROR: ShapelessRecipes.zs:54: Could not resolve <exnihilo : nether_gold_gravel>
+ERROR: ShapelessRecipes.zs:55: Could not resolve <exnihilo : exnihilo . nether_copper_broken>
+ERROR: ShapelessRecipes.zs:55: Could not resolve <exnihilo : nether_copper_gravel>
+ERROR: ShapelessRecipes.zs:56: Could not resolve <exnihilo : exnihilo . nether_nickel_broken>
+ERROR: ShapelessRecipes.zs:56: Could not resolve <exnihilo : nether_nickel_gravel>
+ERROR: ShapelessRecipes.zs:58: Could not resolve <exastris : CobaltOreBlock : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreBlock : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:60: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:60: Could not resolve <exastris : CobaltOreBlock : 0>
+ERROR: ShapelessRecipes.zs:61: Could not resolve <exastris : CobaltOreBlock : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreBlock : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:63: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:66: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:66: Could not resolve <exastris : CobaltOreBlock : 1>
+ERROR: ShapelessRecipes.zs:67: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:67: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: ShapelessRecipes.zs:69: Could not resolve <exastris : ArditeOreBlock : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreBlock : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:71: Could not resolve <exastris : ArditeOreBlock : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreBlock : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:73: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:75: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:75: Could not resolve <exastris : ArditeOreBlock : 0>
+ERROR: ShapelessRecipes.zs:76: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:76: Could not resolve <exastris : ArditeOreBlock : 1>
+ERROR: ShapelessRecipes.zs:77: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:77: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: ShapelessRecipes.zs:79: Could not resolve <exastris : exnihilo . ender_draconiumdust_broken>
+ERROR: ShapelessRecipes.zs:79: Could not resolve <exastris : ender_draconiumdust_gravel>
+ERROR: ShapelessRecipes.zs:80: Could not resolve <exastris : exnihilo . draconiumdust_crushed>
+ERROR: ShapelessRecipes.zs:80: Could not resolve <exastris : draconiumdust_sand>
+ERROR: ShapelessRecipes.zs:81: Could not resolve <exastris : exnihilo . draconiumdust_powdered>
+ERROR: ShapelessRecipes.zs:81: Could not resolve <exastris : draconiumdust_dust>
+ERROR: ShapelessRecipes.zs:83: Could not resolve <exnihilo : exnihilo . ender_platinum_broken>
+ERROR: ShapelessRecipes.zs:83: Could not resolve <exnihilo : ender_platinum_gravel>
+ERROR: ShapelessRecipes.zs:84: Could not resolve <exnihilo : exnihilo . ender_tin_broken>
+ERROR: ShapelessRecipes.zs:84: Could not resolve <exnihilo : ender_tin_gravel>
+ERROR: ShapelessRecipes.zs:85: Could not resolve <exnihilo : exnihilo . ender_silver_broken>
+ERROR: ShapelessRecipes.zs:85: Could not resolve <exnihilo : ender_silver_gravel>
+ERROR: ShapelessRecipes.zs:86: Could not resolve <exnihilo : exnihilo . ender_lead_broken>
+ERROR: ShapelessRecipes.zs:86: Could not resolve <exnihilo : ender_lead_gravel>
+ERROR: ShapelessRecipes.zs:89: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapelessRecipes.zs:102: Could not resolve <exastris : chiselStone : 1>
+ERROR: ShapelessRecipes.zs:103: Could not resolve <exastris : chiselStone>
+INFO: Initializing 'ShapelessRecipes'...
+INFO: Adding recipe for Fluix Crystal
+INFO: Adding recipe for Fluix Dust
+INFO: Adding recipe for ME 4096k Fluid Storage
+INFO: Adding recipe for ME 1024k Fluid Storage
+INFO: Adding recipe for ME 256k Fluid Storage
+INFO: Adding recipe for ME 64k Fluid Storage
+INFO: Adding recipe for ME 16k Fluid Storage
+INFO: Adding recipe for ME 4k Fluid Storage
+INFO: Adding recipe for ME 1k Fluid Storage
+ERROR: Error executing ShapelessRecipes.zs: null
+java.lang.NullPointerException
+	at ShapelessRecipes.__script__(ShapelessRecipes.zs:17)
+	at __ZenMain__.run(ShapelessRecipes.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:161)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: Sieve.zs:11: Could not resolve <exnihilo : dust>
+ERROR: Sieve.zs:12: Could not resolve <exnihilo : dust>
+ERROR: Sieve.zs:8 > No such member: exnihilo
+ERROR: Error executing Sieve.zs: 1
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:154)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:202)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:111)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Initializing 'SpawnEggs'...
+INFO: Adding recipe for Spawn Cow
+INFO: Adding recipe for Spawn Sheep
+INFO: Adding recipe for Spawn Pig
+INFO: Adding recipe for Spawn Horse
+INFO: Adding recipe for Spawn Chicken
+INFO: Initialized 'SpawnEggs'
+INFO: Initializing 'Steves'...
+INFO: Removing 1 recipes
+INFO: Adding recipe for Machine Inventory Manager
+INFO: Removing 1 recipes
+INFO: Adding recipe for Inventory Cable
+INFO: Initialized 'Steves'
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Sawmill Recipe(s) for <Natura:Rare Tree:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Sawmill Recipe(s) for <Natura:Rare Tree:2>
+INFO: Initialized 'TE'
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Industrial Hemp Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Industrial Hemp Fiber
+INFO: Initialized 'Thaumcraft'
+ERROR: ThaumcraftSaplings.zs:8: Could not resolve <exnihilo : bucket_witchwater : 0>
+ERROR: ThaumcraftSaplings.zs:10: Could not resolve <exnihilo : bucket_witchwater : 0>
+INFO: Initializing 'ThaumcraftSaplings'...
+INFO: Adding recipe for Greatwood Sapling
+INFO: Adding recipe for Silverwood Sapling
+INFO: Initialized 'ThaumcraftSaplings'
+INFO: Initializing 'Tinkers'...
+INFO: Adding recipe for Miniature Green Heart
+INFO: Adding recipe for Green Heart Canister
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:storage:2>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:manaResource:7>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage:2>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource:7>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:storage:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:manaResource:4>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource:4>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:storage>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:manaResource>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Thaumcraft:ItemResource:16>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Thaumcraft:ItemResource:16>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <EnderIO:blockIngotStorage:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <EnderIO:blockIngotStorage:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <minecraft:redstone>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <minecraft:redstone_block>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:pickaxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toolRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:shovelHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughBinding:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:heavyPlate:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:swordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:wideGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:handGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:crossbar:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:knifeBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:frypanHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:signHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:chiselHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:broadAxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:excavatorHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:largeSwordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hammerHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:arrowhead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:ShurikenPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
+INFO: Initialized 'Tinkers'
+INFO: Initializing 'Unification'...
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Adding recipe for Copper Nugget
+INFO: Adding recipe for Copper Block
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 3 recipes
+INFO: Adding recipe for Tin Nugget
+INFO: Adding recipe for Tin Block
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Tin Ingot
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Adding recipe for Silver Nugget
+INFO: Adding recipe for Silver Block
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Adding recipe for Lead Nugget
+INFO: Adding recipe for Lead Block
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Bronze Nugget
+INFO: Adding recipe for Bronze Block
+INFO: Adding recipe for Bronze Ingot
+INFO: Adding recipe for Bronze Ingot
+INFO: Initialized 'Unification'
+ERROR: exNihilo.zs:9: Could not resolve <exnihilo : infested_leaves>
+ERROR: exNihilo.zs:6 > No such member: exnihilo
+ERROR: exNihilo.zs:7 > No such member: exnihilo
+ERROR: Error executing exNihilo.zs: 3
+java.lang.ArrayIndexOutOfBoundsException: 3
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:154)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:202)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:111)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Removing recipe for Bronze Ingot
+INFO: Removing recipe for Bronze Ingot
+INFO: Removing recipe for Bronze Block
+INFO: Removing recipe for Bronze Nugget
+INFO: Restoring 2 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Lead Ingot
+INFO: Removing recipe for Lead Ingot
+INFO: Removing recipe for Lead Ingot
+INFO: Removing recipe for Lead Block
+INFO: Removing recipe for Lead Nugget
+INFO: Restoring 4 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Silver Ingot
+INFO: Removing recipe for Silver Block
+INFO: Removing recipe for Silver Nugget
+INFO: Restoring 4 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: Removing recipe for Tin Ingot
+INFO: Removing recipe for Tin Ingot
+INFO: Removing recipe for Tin Ingot
+INFO: Removing recipe for Tin Block
+INFO: Removing recipe for Tin Nugget
+INFO: Restoring 3 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Copper Ingot
+INFO: Removing recipe for Copper Ingot
+INFO: Removing recipe for Copper Ingot
+INFO: Removing recipe for Copper Block
+INFO: Removing recipe for Copper Nugget
+INFO: Restoring 4 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 2 recipes
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:BowLimbPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:ShurikenPart:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:arrowhead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:hammerHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:largeSwordBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:excavatorHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:broadAxeHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:chiselHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:signHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:frypanHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:knifeBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:crossbar:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:handGuard:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:wideGuard:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:swordBlade:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:heavyPlate:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:toughRod:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:toughBinding:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:shovelHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:toolRod:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:pickaxeHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <minecraft:redstone_block>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <minecraft:redstone>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <EnderIO:blockIngotStorage:6>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <EnderIO:blockIngotStorage:6>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Thaumcraft:ItemResource:16>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Thaumcraft:ItemResource:16>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Botania:manaResource>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Botania:storage>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource:4>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage:1>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Botania:manaResource:4>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Botania:storage:1>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource:7>
+INFO: [ModTweaker2] Removing 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage:2>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Botania:manaResource:7>
+INFO: [ModTweaker2] Removing 1 TConstruct Casting Recipe(s) for <Botania:storage:2>
+INFO: Removing recipe for Green Heart Canister
+INFO: Removing recipe for Miniature Green Heart
+INFO: Removing recipe for Silverwood Sapling
+INFO: Removing recipe for Greatwood Sapling
+INFO: [ModTweaker2] Reverting Aspects Recipe(s) changes for Industrial Hemp Fiber
+INFO: [ModTweaker2] Reverting Aspects Recipe(s) changes for Industrial Hemp Seeds
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Sawmill Recipe(s) for <Natura:Rare Tree:2>
+INFO: [ModTweaker2] Restoring 1 Thermal Expansion Sawmill Recipe(s) for <Natura:Rare Tree:2>
+INFO: Removing recipe for Inventory Cable
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Machine Inventory Manager
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Spawn Chicken
+INFO: Removing recipe for Spawn Horse
+INFO: Removing recipe for Spawn Pig
+INFO: Removing recipe for Spawn Sheep
+INFO: Removing recipe for Spawn Cow
+INFO: Removing recipe for ME 1k Fluid Storage
+INFO: Removing recipe for ME 4k Fluid Storage
+INFO: Removing recipe for ME 16k Fluid Storage
+INFO: Removing recipe for ME 64k Fluid Storage
+INFO: Removing recipe for ME 256k Fluid Storage
+INFO: Removing recipe for ME 1024k Fluid Storage
+INFO: Removing recipe for ME 4096k Fluid Storage
+INFO: Removing recipe for Fluix Dust
+INFO: Removing recipe for Fluix Crystal
+INFO: Removing recipe for ME Terminal
+INFO: Removing recipe for Printed Logic Circuit
+INFO: Removing recipe for Printed Engineering Circuit
+INFO: Removing recipe for Printed Calculation Circuit
+INFO: Removing recipe for Pink Generator
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Deep Storage Unit
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Safari Net (Single-Use)
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Diamond Nugget
+INFO: Restoring 1 recipes
+INFO: Removing recipe for Weather Crystal
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Restoring 1 recipes
+INFO: Displaying item.SeedBagZivicio in NEI
+INFO: Restoring 1 recipes
+INFO: Displaying item.SeedBagImperio in NEI
+INFO: Restoring 1 recipes
+INFO: Displaying item.SeedBagCrucio in NEI
+INFO: Restoring 1 recipes
+INFO: Displaying item.SeedBagAccio in NEI
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_boots>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_leggings>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_chestplate>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_helmet>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:saddle>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_boots>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_leggings>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_chestplate>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_helmet>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_boots>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_leggings>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_chestplate>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_helmet>
+INFO: Removing Flour from ore dictionary entry foodFlour
+INFO: Removing Flour from ore dictionary entry foodFlour
+INFO: Removing Wheat Flour from ore dictionary entry foodFlour
+INFO: Removing Barley Flour from ore dictionary entry foodFlour
+INFO: Removing Flour from ore dictionary entry foodFlour
+INFO: Removing Flour from ore dictionary entry dustWheat
+INFO: Removing Flour from ore dictionary entry dustWheat
+INFO: Removing Wheat Flour from ore dictionary entry dustWheat
+INFO: Removing Barley Flour from ore dictionary entry dustWheat
+INFO: Removing Flour from ore dictionary entry dustWheat
+INFO: Removing Clear Glass from ore dictionary entry glass
+INFO: Removing Sulfur from ore dictionary entry dustSulfur
+INFO: Removing Aluminium Nugget from ore dictionary entry nuggetAluminium
+INFO: Undoing mirror of ingotAluminium to ingotAluminum
+INFO: Removing contents of ore dictionary entry ingotAluminum from ingotAluminium
+INFO: Removing MFR Plantable for seed <Natura:Rare Sapling:3>
+INFO: Removing MFR Plantable for seed <Natura:Rare Sapling:4>
+INFO: Removing MFR Plantable for seed <Natura:Rare Sapling:1>
+INFO: Removing MFR Plantable for seed <Natura:Rare Sapling>
+INFO: Removing MFR Plantable for seed <Natura:Rare Sapling:2>
+INFO: Removing Coke Oven Recipe for Charcoal
+INFO: Removing Crusher Recipe for Leather
+INFO: Removing Crusher Recipe for Pulverized Gold
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Diamond
+INFO: Removing Crusher Recipe for Leather
+INFO: Removing Crusher Recipe for Leather
+INFO: Removing Crusher Recipe for Leather
+INFO: Removing Crusher Recipe for Leather
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Gold
+INFO: Removing Crusher Recipe for Pulverized Gold
+INFO: Removing Crusher Recipe for Pulverized Gold
+INFO: Removing Crusher Recipe for Pulverized Gold
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Pulverized Iron
+INFO: Removing Crusher Recipe for Diamond
+INFO: Removing Crusher Recipe for Diamond
+INFO: Removing Crusher Recipe for Diamond
+INFO: Removing Crusher Recipe for Diamond
+INFO: Removing ArcFurnace Recipe for Yellorium Ingot
+INFO: Re-Adding ArcFurnace Recipe for Yellorium Ingot
+INFO: Removing furnace recipe for <ExtraUtilities:cobblestone_compressed>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <minecraft:stained_glass:14>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:45>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:12>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:7>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:3>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:2>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:22>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:18>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:24>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:17>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:23>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:16>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:10>
+INFO: Removing furnace recipe for <appliedenergistics2:item.ItemMultiMaterial>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:11>
+INFO: Removing furnace recipe for <minecraft:quartz>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Restoring 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Restoring 1 Thermal Expansion Furnace Recipe(s) for <BigReactors:BRIngot>
+INFO: Removing furnace recipe for <BigReactors:BRIngot:4>
+INFO: Removing recipe for Broken Spawner
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:saddle>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_horse_armor>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_horse_armor>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_horse_armor>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_boots>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_leggings>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_chestplate>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_helmet>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_boots>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_leggings>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_chestplate>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_helmet>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_boots>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_leggings>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_chestplate>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_helmet>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_boots>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_leggings>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_chestplate>
+INFO: [ModTweaker2] Removing 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_helmet>
+INFO: tried to remove command: mfr failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: thermalexpansion failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: aspectList failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: research failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tconstruct failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: modifiers failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: materials failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselVariations failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: chiselGroups failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botania failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaOrechid failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconKnowledgeTypes failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: botaniaBrews failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconPages failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: lexiconCategories failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: appeng failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: entities failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: tooltips failed. THIS IS NOT AN ERROR!
+INFO: tried to remove command: minetweaker failed. THIS IS NOT AN ERROR!
+INFO: Adding command minetweaker
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+INFO: 
+ERROR: AE2.zs:43: Could not resolve <exnihilo : iron_dust>
+ERROR: AE2.zs:44: Could not resolve <exnihilo : aluminum_dust>
+ERROR: AE2.zs:45: Could not resolve <exnihilo : silver_dust>
+ERROR: AE2.zs:46: Could not resolve <exnihilo : tin_dust>
+ERROR: AE2.zs:47: Could not resolve <exnihilo : nickel_dust>
+ERROR: AE2.zs:48: Could not resolve <exnihilo : copper_dust>
+ERROR: AE2.zs:49: Could not resolve <exnihilo : gold_dust>
+ERROR: AE2.zs:50: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: AE2.zs:51: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: AE2.zs:43 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:44 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:45 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:46 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:47 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:48 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:49 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:50 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+ERROR: AE2.zs:51 > 3 methods available but none matches the parameters (any, minetweaker.item.IItemStack, int)
+This is usually an error in your script, not in the mod
+INFO: Initializing 'AE2'...
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:leather_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:diamond_horse_armor>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:golden_horse_armor>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:iron_horse_armor>
+INFO: [ModTweaker2] Adding 1 Applied Energistics 2 Grindstone Recipe(s) for <minecraft:saddle>
+INFO: Initialized 'AE2'
+INFO: Initializing 'EnderIO'...
+INFO: Adding recipe for Broken Spawner
+INFO: Initialized 'EnderIO'
+ERROR: FurnaceRecipes.zs:59: Could not resolve <excompressum : compressed_dust : 6>
+ERROR: FurnaceRecipes.zs:60: Could not resolve <excompressum : compressed_dust : 6>
+INFO: Initializing 'FurnaceRecipes'...
+INFO: Adding furnace recipe for <BigReactors:BRIngot:4>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Furnace Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <BigReactors:BRIngot>
+INFO: Adding furnace recipe for <minecraft:quartz>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:11>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:10>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:16>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:23>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:17>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:24>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:18>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:22>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:3>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:7>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <appliedenergistics2:item.ItemMultiMaterial:12>
+INFO: Adding furnace recipe for <appliedenergistics2:item.ItemMultiMaterial:45>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemMaterial>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Furnace Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Smelter Recipe(s) for <minecraft:stained_glass:14>
+INFO: Adding furnace recipe for <ExtraUtilities:cobblestone_compressed>
+ERROR: [ModTweaker2] Required parameters missing for Thermal Expansion Furnace Recipe.
+INFO: Initialized 'FurnaceRecipies'
+INFO: Initializing 'IE'...
+INFO: Removing ArcFurnace Recipe for Yellorium Ingot
+INFO: Adding ArcFurnace Recipe for Yellorium Ingot
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Crusher Recipe for Diamond
+INFO: Adding Crusher Recipe for Pulverized Iron
+INFO: Adding Crusher Recipe for Pulverized Gold
+INFO: Adding Crusher Recipe for Leather
+INFO: Adding Coke Oven Recipe for Charcoal
+INFO: Initialized 'IE'
+ERROR: Lore.zs:10: Could not resolve <excompressum : compressedHammerWood>
+ERROR: Lore.zs:12: Could not resolve <excompressum : compressedHammerStone>
+ERROR: Lore.zs:14: Could not resolve <excompressum : compressedHammerIron>
+ERROR: Lore.zs:16: Could not resolve <excompressum : compressedHammerGold>
+ERROR: Lore.zs:18: Could not resolve <excompressum : compressedHammerDiamond>
+INFO: Initializing 'Lore'...
+ERROR: Error executing Lore.zs: minetweaker/api/formatting/IFormattedTextAny
+java.lang.NoClassDefFoundError: minetweaker/api/formatting/IFormattedTextAny
+	at Lore.__script__(Lore.zs:10)
+	at __ZenMain__.run(Lore.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:161)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+Caused by: java.lang.ClassNotFoundException: minetweaker.api.formatting.IFormattedTextAny
+	at java.lang.ClassLoader.findClass(Unknown Source)
+	at stanhebben.zenscript.ZenModule$MyClassLoader.findClass(ZenModule.java:338)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 36 more
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:2>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:1>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:4>
+INFO: Adding MFR Plantable for seed <Natura:Rare Sapling:3>
+INFO: Initialized 'MFR'
+ERROR: OreDict.zs:18: Could not resolve <exnihilo : lead_dust : 0>
+ERROR: OreDict.zs:19: Could not resolve <exnihilo : nickel_dust : 0>
+ERROR: OreDict.zs:20: Could not resolve <exnihilo : silver_dust : 0>
+ERROR: OreDict.zs:21: Could not resolve <exnihilo : platinum_dust : 0>
+ERROR: OreDict.zs:22: Could not resolve <exnihilo : tin_dust : 0>
+ERROR: OreDict.zs:23: Could not resolve <exnihilo : gold_dust : 0>
+ERROR: OreDict.zs:24: Could not resolve <exnihilo : copper_dust : 0>
+ERROR: OreDict.zs:25: Could not resolve <exnihilo : aluminum_dust : 0>
+ERROR: OreDict.zs:26: Could not resolve <exnihilo : iron_dust : 0>
+ERROR: OreDict.zs:27: Could not resolve <exnihilo : nether_nickel_gravel : 0>
+ERROR: OreDict.zs:28: Could not resolve <exnihilo : nether_copper_gravel : 0>
+ERROR: OreDict.zs:29: Could not resolve <exnihilo : nether_gold_gravel : 0>
+ERROR: OreDict.zs:30: Could not resolve <exnihilo : nether_iron_gravel : 0>
+ERROR: OreDict.zs:31: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: OreDict.zs:32: Could not resolve <exastris : ArditeOreBlock : 2>
+INFO: Initializing 'OreDict'...
+INFO: Copying contents of ore dictionary entry ingotAluminum to ingotAluminium
+INFO: Mirroring ingotAluminium to ingotAluminum
+INFO: Adding Aluminium Nugget to ore dictionary entry nuggetAluminium
+INFO: Adding Sulfur to ore dictionary entry dustSulfur
+INFO: Adding Clear Glass to ore dictionary entry glass
+INFO: Adding Flour to ore dictionary entry dustWheat
+INFO: Adding Barley Flour to ore dictionary entry dustWheat
+INFO: Adding Wheat Flour to ore dictionary entry dustWheat
+INFO: Adding Flour to ore dictionary entry dustWheat
+INFO: Adding Flour to ore dictionary entry dustWheat
+INFO: Adding Flour to ore dictionary entry foodFlour
+INFO: Adding Barley Flour to ore dictionary entry foodFlour
+INFO: Adding Wheat Flour to ore dictionary entry foodFlour
+INFO: Adding Flour to ore dictionary entry foodFlour
+INFO: Adding Flour to ore dictionary entry foodFlour
+INFO: Initialized 'OreDict'
+ERROR: PamTreeSieve.zs:6 > No such member: exnihilo
+ERROR: Error executing PamTreeSieve.zs: 2
+java.lang.ArrayIndexOutOfBoundsException: 2
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:154)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:202)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:111)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: Pulverizer.zs:33: Could not resolve <exnihilo : aluminum_sand>
+ERROR: Pulverizer.zs:34: Could not resolve <exnihilo : aluminum_gravel>
+ERROR: Pulverizer.zs:33 > 2 methods available but none matches the parameters (int, any, minetweaker.item.IItemStack)
+This is usually an error in your script, not in the mod
+ERROR: Pulverizer.zs:34 > 2 methods available but none matches the parameters (int, any, minetweaker.item.IItemStack)
+This is usually an error in your script, not in the mod
+INFO: Initializing 'Pulverizer'...
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:iron_boots>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:golden_boots>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:chainmail_boots>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:saddle>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_helmet>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_chestplate>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_leggings>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Pulverizer Recipe(s) for <minecraft:leather_boots>
+INFO: Initialized 'Pulverizer'
+INFO: Initializing 'Removal'...
+INFO: Hiding item.SeedBagAccio in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SeedBagCrucio in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SeedBagImperio in NEI
+INFO: Removing 1 recipes
+INFO: Hiding item.SeedBagZivicio in NEI
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Initialized 'Removal'
+ERROR: ShapedRecipes.zs:36: Could not resolve <excompressum : chickenStick>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapedRecipes.zs:165: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+INFO: Initializing 'ShapedRecipes'...
+INFO: Removing 1 recipes
+INFO: Adding recipe for Weather Crystal
+INFO: Removing 1 recipes
+INFO: Adding recipe for Diamond Nugget
+INFO: Removing 1 recipes
+INFO: Adding recipe for Safari Net (Single-Use)
+INFO: Removing 1 recipes
+INFO: Adding recipe for Deep Storage Unit
+INFO: Removing 1 recipes
+INFO: Adding recipe for Pink Generator
+INFO: Adding recipe for Printed Calculation Circuit
+INFO: Adding recipe for Printed Engineering Circuit
+INFO: Adding recipe for Printed Logic Circuit
+INFO: Adding recipe for ME Terminal
+ERROR: Error executing ShapedRecipes.zs: null
+java.lang.NullPointerException
+	at minetweaker.mc1710.recipes.MCRecipeManager$ActionAddRecipe.describe(MCRecipeManager.java:382)
+	at minetweaker.runtime.MTTweaker.apply(MTTweaker.java:50)
+	at minetweaker.MineTweakerAPI.apply(MineTweakerAPI.java:176)
+	at minetweaker.mc1710.recipes.MCRecipeManager.addShaped(MCRecipeManager.java:399)
+	at minetweaker.mc1710.recipes.MCRecipeManager.addShaped(MCRecipeManager.java:102)
+	at ShapedRecipes.__script__(ShapedRecipes.zs:36)
+	at __ZenMain__.run(ShapedRecipes.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:161)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: ShapelessRecipes.zs:17: Could not resolve <exnihilo : exnihilo . aluminum_broken>
+ERROR: ShapelessRecipes.zs:17: Could not resolve <exnihilo : aluminum_gravel>
+ERROR: ShapelessRecipes.zs:18: Could not resolve <exnihilo : exnihilo . aluminum_powdered>
+ERROR: ShapelessRecipes.zs:18: Could not resolve <exnihilo : aluminum_dust>
+ERROR: ShapelessRecipes.zs:19: Could not resolve <exnihilo : exnihilo . aluminum_crushed>
+ERROR: ShapelessRecipes.zs:19: Could not resolve <exnihilo : aluminum_sand>
+ERROR: ShapelessRecipes.zs:21: Could not resolve <exnihilo : exnihilo . iron_broken>
+ERROR: ShapelessRecipes.zs:21: Could not resolve <exnihilo : iron_gravel>
+ERROR: ShapelessRecipes.zs:22: Could not resolve <exnihilo : exnihilo . iron_crushed>
+ERROR: ShapelessRecipes.zs:22: Could not resolve <exnihilo : iron_sand>
+ERROR: ShapelessRecipes.zs:23: Could not resolve <exnihilo : exnihilo . iron_powdered>
+ERROR: ShapelessRecipes.zs:23: Could not resolve <exnihilo : iron_dust>
+ERROR: ShapelessRecipes.zs:25: Could not resolve <exnihilo : exnihilo . copper_broken>
+ERROR: ShapelessRecipes.zs:25: Could not resolve <exnihilo : copper_gravel>
+ERROR: ShapelessRecipes.zs:26: Could not resolve <exnihilo : exnihilo . copper_crushed>
+ERROR: ShapelessRecipes.zs:26: Could not resolve <exnihilo : copper_sand>
+ERROR: ShapelessRecipes.zs:27: Could not resolve <exnihilo : exnihilo . copper_powdered>
+ERROR: ShapelessRecipes.zs:27: Could not resolve <exnihilo : copper_dust>
+ERROR: ShapelessRecipes.zs:29: Could not resolve <exnihilo : exnihilo . gold_broken>
+ERROR: ShapelessRecipes.zs:29: Could not resolve <exnihilo : gold_gravel>
+ERROR: ShapelessRecipes.zs:30: Could not resolve <exnihilo : exnihilo . gold_crushed>
+ERROR: ShapelessRecipes.zs:30: Could not resolve <exnihilo : gold_sand>
+ERROR: ShapelessRecipes.zs:31: Could not resolve <exnihilo : exnihilo . gold_powdered>
+ERROR: ShapelessRecipes.zs:31: Could not resolve <exnihilo : gold_dust>
+ERROR: ShapelessRecipes.zs:33: Could not resolve <exnihilo : exnihilo . tin_broken>
+ERROR: ShapelessRecipes.zs:33: Could not resolve <exnihilo : tin_gravel>
+ERROR: ShapelessRecipes.zs:34: Could not resolve <exnihilo : exnihilo . tin_crushed>
+ERROR: ShapelessRecipes.zs:34: Could not resolve <exnihilo : tin_sand>
+ERROR: ShapelessRecipes.zs:35: Could not resolve <exnihilo : exnihilo . tin_powdered>
+ERROR: ShapelessRecipes.zs:35: Could not resolve <exnihilo : tin_dust>
+ERROR: ShapelessRecipes.zs:37: Could not resolve <exnihilo : exnihilo . silver_broken>
+ERROR: ShapelessRecipes.zs:37: Could not resolve <exnihilo : silver_gravel>
+ERROR: ShapelessRecipes.zs:38: Could not resolve <exnihilo : exnihilo . silver_crushed>
+ERROR: ShapelessRecipes.zs:38: Could not resolve <exnihilo : silver_sand>
+ERROR: ShapelessRecipes.zs:39: Could not resolve <exnihilo : exnihilo . silver_powdered>
+ERROR: ShapelessRecipes.zs:39: Could not resolve <exnihilo : silver_dust>
+ERROR: ShapelessRecipes.zs:41: Could not resolve <exnihilo : exnihilo . platinum_broken>
+ERROR: ShapelessRecipes.zs:41: Could not resolve <exnihilo : platinum_gravel>
+ERROR: ShapelessRecipes.zs:42: Could not resolve <exnihilo : exnihilo . platinum_crushed>
+ERROR: ShapelessRecipes.zs:42: Could not resolve <exnihilo : platinum_sand>
+ERROR: ShapelessRecipes.zs:43: Could not resolve <exnihilo : exnihilo . platinum_powdered>
+ERROR: ShapelessRecipes.zs:43: Could not resolve <exnihilo : platinum_dust>
+ERROR: ShapelessRecipes.zs:45: Could not resolve <exnihilo : exnihilo . nickel_broken>
+ERROR: ShapelessRecipes.zs:45: Could not resolve <exnihilo : nickel_gravel>
+ERROR: ShapelessRecipes.zs:46: Could not resolve <exnihilo : exnihilo . nickel_crushed>
+ERROR: ShapelessRecipes.zs:46: Could not resolve <exnihilo : nickel_sand>
+ERROR: ShapelessRecipes.zs:47: Could not resolve <exnihilo : exnihilo . nickel_powdered>
+ERROR: ShapelessRecipes.zs:47: Could not resolve <exnihilo : nickel_dust>
+ERROR: ShapelessRecipes.zs:49: Could not resolve <exnihilo : exnihilo . lead_broken>
+ERROR: ShapelessRecipes.zs:49: Could not resolve <exnihilo : lead_gravel>
+ERROR: ShapelessRecipes.zs:50: Could not resolve <exnihilo : exnihilo . lead_crushed>
+ERROR: ShapelessRecipes.zs:50: Could not resolve <exnihilo : lead_sand>
+ERROR: ShapelessRecipes.zs:51: Could not resolve <exnihilo : exnihilo . lead_powdered>
+ERROR: ShapelessRecipes.zs:51: Could not resolve <exnihilo : lead_dust>
+ERROR: ShapelessRecipes.zs:53: Could not resolve <exnihilo : exnihilo . nether_iron_broken>
+ERROR: ShapelessRecipes.zs:53: Could not resolve <exnihilo : nether_iron_gravel>
+ERROR: ShapelessRecipes.zs:54: Could not resolve <exnihilo : exnihilo . nether_gold_broken>
+ERROR: ShapelessRecipes.zs:54: Could not resolve <exnihilo : nether_gold_gravel>
+ERROR: ShapelessRecipes.zs:55: Could not resolve <exnihilo : exnihilo . nether_copper_broken>
+ERROR: ShapelessRecipes.zs:55: Could not resolve <exnihilo : nether_copper_gravel>
+ERROR: ShapelessRecipes.zs:56: Could not resolve <exnihilo : exnihilo . nether_nickel_broken>
+ERROR: ShapelessRecipes.zs:56: Could not resolve <exnihilo : nether_nickel_gravel>
+ERROR: ShapelessRecipes.zs:58: Could not resolve <exastris : CobaltOreBlock : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreBlock : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:59: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:60: Could not resolve <exastris : CobaltOreItem : 0>
+ERROR: ShapelessRecipes.zs:60: Could not resolve <exastris : CobaltOreBlock : 0>
+ERROR: ShapelessRecipes.zs:61: Could not resolve <exastris : CobaltOreBlock : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreBlock : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:62: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:63: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:64: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:66: Could not resolve <exastris : CobaltOreItem : 1>
+ERROR: ShapelessRecipes.zs:66: Could not resolve <exastris : CobaltOreBlock : 1>
+ERROR: ShapelessRecipes.zs:67: Could not resolve <exastris : CobaltOreItem : 2>
+ERROR: ShapelessRecipes.zs:67: Could not resolve <exastris : CobaltOreBlock : 2>
+ERROR: ShapelessRecipes.zs:69: Could not resolve <exastris : ArditeOreBlock : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreBlock : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:70: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:71: Could not resolve <exastris : ArditeOreBlock : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreBlock : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:72: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:73: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:74: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:75: Could not resolve <exastris : ArditeOreItem : 0>
+ERROR: ShapelessRecipes.zs:75: Could not resolve <exastris : ArditeOreBlock : 0>
+ERROR: ShapelessRecipes.zs:76: Could not resolve <exastris : ArditeOreItem : 1>
+ERROR: ShapelessRecipes.zs:76: Could not resolve <exastris : ArditeOreBlock : 1>
+ERROR: ShapelessRecipes.zs:77: Could not resolve <exastris : ArditeOreItem : 2>
+ERROR: ShapelessRecipes.zs:77: Could not resolve <exastris : ArditeOreBlock : 2>
+ERROR: ShapelessRecipes.zs:79: Could not resolve <exastris : exnihilo . ender_draconiumdust_broken>
+ERROR: ShapelessRecipes.zs:79: Could not resolve <exastris : ender_draconiumdust_gravel>
+ERROR: ShapelessRecipes.zs:80: Could not resolve <exastris : exnihilo . draconiumdust_crushed>
+ERROR: ShapelessRecipes.zs:80: Could not resolve <exastris : draconiumdust_sand>
+ERROR: ShapelessRecipes.zs:81: Could not resolve <exastris : exnihilo . draconiumdust_powdered>
+ERROR: ShapelessRecipes.zs:81: Could not resolve <exastris : draconiumdust_dust>
+ERROR: ShapelessRecipes.zs:83: Could not resolve <exnihilo : exnihilo . ender_platinum_broken>
+ERROR: ShapelessRecipes.zs:83: Could not resolve <exnihilo : ender_platinum_gravel>
+ERROR: ShapelessRecipes.zs:84: Could not resolve <exnihilo : exnihilo . ender_tin_broken>
+ERROR: ShapelessRecipes.zs:84: Could not resolve <exnihilo : ender_tin_gravel>
+ERROR: ShapelessRecipes.zs:85: Could not resolve <exnihilo : exnihilo . ender_silver_broken>
+ERROR: ShapelessRecipes.zs:85: Could not resolve <exnihilo : ender_silver_gravel>
+ERROR: ShapelessRecipes.zs:86: Could not resolve <exnihilo : exnihilo . ender_lead_broken>
+ERROR: ShapelessRecipes.zs:86: Could not resolve <exnihilo : ender_lead_gravel>
+ERROR: ShapelessRecipes.zs:89: Could not resolve <exnihilo : exnihilo . aluminum_ingot>
+ERROR: ShapelessRecipes.zs:102: Could not resolve <exastris : chiselStone : 1>
+ERROR: ShapelessRecipes.zs:103: Could not resolve <exastris : chiselStone>
+INFO: Initializing 'ShapelessRecipes'...
+INFO: Adding recipe for Fluix Crystal
+INFO: Adding recipe for Fluix Dust
+INFO: Adding recipe for ME 4096k Fluid Storage
+INFO: Adding recipe for ME 1024k Fluid Storage
+INFO: Adding recipe for ME 256k Fluid Storage
+INFO: Adding recipe for ME 64k Fluid Storage
+INFO: Adding recipe for ME 16k Fluid Storage
+INFO: Adding recipe for ME 4k Fluid Storage
+INFO: Adding recipe for ME 1k Fluid Storage
+ERROR: Error executing ShapelessRecipes.zs: null
+java.lang.NullPointerException
+	at ShapelessRecipes.__script__(ShapelessRecipes.zs:17)
+	at __ZenMain__.run(ShapelessRecipes.zs)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:161)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+ERROR: Sieve.zs:11: Could not resolve <exnihilo : dust>
+ERROR: Sieve.zs:12: Could not resolve <exnihilo : dust>
+ERROR: Sieve.zs:8 > No such member: exnihilo
+ERROR: Error executing Sieve.zs: 1
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:154)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:202)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:111)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+INFO: Initializing 'SpawnEggs'...
+INFO: Adding recipe for Spawn Cow
+INFO: Adding recipe for Spawn Sheep
+INFO: Adding recipe for Spawn Pig
+INFO: Adding recipe for Spawn Horse
+INFO: Adding recipe for Spawn Chicken
+INFO: Initialized 'SpawnEggs'
+INFO: Initializing 'Steves'...
+INFO: Removing 1 recipes
+INFO: Adding recipe for Machine Inventory Manager
+INFO: Removing 1 recipes
+INFO: Adding recipe for Inventory Cable
+INFO: Initialized 'Steves'
+INFO: [ModTweaker2] Removing 1 Thermal Expansion Sawmill Recipe(s) for <Natura:Rare Tree:2>
+INFO: [ModTweaker2] Adding 1 Thermal Expansion Sawmill Recipe(s) for <Natura:Rare Tree:2>
+INFO: Initialized 'TE'
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Industrial Hemp Seeds
+INFO: [ModTweaker2] Altering Aspects Recipe(s) for Industrial Hemp Fiber
+INFO: Initialized 'Thaumcraft'
+ERROR: ThaumcraftSaplings.zs:8: Could not resolve <exnihilo : bucket_witchwater : 0>
+ERROR: ThaumcraftSaplings.zs:10: Could not resolve <exnihilo : bucket_witchwater : 0>
+INFO: Initializing 'ThaumcraftSaplings'...
+INFO: Adding recipe for Greatwood Sapling
+INFO: Adding recipe for Silverwood Sapling
+INFO: Initialized 'ThaumcraftSaplings'
+INFO: Initializing 'Tinkers'...
+INFO: Adding recipe for Miniature Green Heart
+INFO: Adding recipe for Green Heart Canister
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:storage:2>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:manaResource:7>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage:2>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource:7>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:storage:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:manaResource:4>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource:4>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:storage>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Botania:manaResource>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:storage>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Botania:manaResource>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <Thaumcraft:ItemResource:16>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <Thaumcraft:ItemResource:16>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <EnderIO:blockIngotStorage:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <EnderIO:blockIngotStorage:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Smeltery - Melting Recipe(s) for <EnderIO:itemAlloy:6>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <minecraft:redstone>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <minecraft:redstone_block>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hatchetHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot>.withTag({stable: 1 as byte})
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <ExtraUtilities:unstableingot:1>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:pickaxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toolRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:shovelHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughBinding:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:toughRod:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:heavyPlate:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:swordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:wideGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:handGuard:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:crossbar:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:knifeBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:frypanHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:signHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:chiselHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:broadAxeHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:excavatorHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:largeSwordBlade:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:hammerHead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:arrowhead:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:ShurikenPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:BowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowLimbPart:314>
+INFO: [ModTweaker2] Adding 1 TConstruct Casting Recipe(s) for <TConstruct:CrossbowBodyPart:314>
+INFO: Initialized 'Tinkers'
+INFO: Initializing 'Unification'...
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Adding recipe for Copper Nugget
+INFO: Adding recipe for Copper Block
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Adding recipe for Copper Ingot
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 3 recipes
+INFO: Adding recipe for Tin Nugget
+INFO: Adding recipe for Tin Block
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Tin Ingot
+INFO: Adding recipe for Tin Ingot
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Adding recipe for Silver Nugget
+INFO: Adding recipe for Silver Block
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Adding recipe for Silver Ingot
+INFO: Removing 2 recipes
+INFO: Removing 1 recipes
+INFO: Removing 4 recipes
+INFO: Adding recipe for Lead Nugget
+INFO: Adding recipe for Lead Block
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Adding recipe for Lead Ingot
+INFO: Removing 1 recipes
+INFO: Removing 1 recipes
+INFO: Removing 2 recipes
+INFO: Adding recipe for Bronze Nugget
+INFO: Adding recipe for Bronze Block
+INFO: Adding recipe for Bronze Ingot
+INFO: Adding recipe for Bronze Ingot
+INFO: Initialized 'Unification'
+ERROR: exNihilo.zs:9: Could not resolve <exnihilo : infested_leaves>
+ERROR: exNihilo.zs:6 > No such member: exnihilo
+ERROR: exNihilo.zs:7 > No such member: exnihilo
+ERROR: Error executing exNihilo.zs: 3
+java.lang.ArrayIndexOutOfBoundsException: 3
+	at stanhebben.zenscript.type.natives.JavaMethod.rematch(JavaMethod.java:154)
+	at stanhebben.zenscript.expression.ExpressionCallVirtual.<init>(ExpressionCallVirtual.java:37)
+	at stanhebben.zenscript.type.ZenTypeAny.call(ZenTypeAny.java:202)
+	at stanhebben.zenscript.expression.Expression.call(Expression.java:81)
+	at stanhebben.zenscript.parser.expression.ParsedExpressionCall.compile(ParsedExpressionCall.java:42)
+	at stanhebben.zenscript.statements.StatementExpression.compile(StatementExpression.java:19)
+	at stanhebben.zenscript.ZenModule.compileScripts(ZenModule.java:111)
+	at minetweaker.runtime.MTTweaker.load(MTTweaker.java:157)
+	at minetweaker.MineTweakerImplementationAPI.reload(MineTweakerImplementationAPI.java:682)
+	at minetweaker.MineTweakerImplementationAPI.onServerStart(MineTweakerImplementationAPI.java:591)
+	at minetweaker.mc1710.MineTweakerMod.onServerAboutToStart(MineTweakerMod.java:167)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.serverAboutToStart(Loader.java:859)
+	at cpw.mods.fml.common.FMLCommonHandler.handleServerAboutToStart(FMLCommonHandler.java:273)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:91)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)

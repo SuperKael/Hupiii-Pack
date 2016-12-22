@@ -1,0 +1,33 @@
+[01:08:25] [Netty Client IO #1/INFO]: Restoring client configs.
+[01:08:25] [Netty Client IO #1/INFO]: Reset configs to client values for com.enderio.core.common.config.ConfigHandler
+[01:08:25] [Netty Client IO #1/INFO]: Reset configs to client values for tterrag.wailaplugins.config.WPConfigHandler
+[01:08:25] [Netty Client IO #1/INFO]: Disconnect from server: Unregistering RFTools dimensions
+[01:08:25] [Netty Client IO #1/INFO]: Loading configuration files
+[01:08:25] [Client thread/INFO]: Mapping halted in D:\Users\Kael\Desktop\MultiMC\instances\Hupiii Pack\minecraft\journeymap\data\sp\Test World\DIM1
+[01:08:26] [Server thread/INFO]: VoiceServer: Shutting down server...
+[01:08:26] [Server thread/INFO]: Stopping server
+[01:08:26] [Server thread/INFO]: Saving players
+[01:08:26] [Server thread/INFO]: Saving worlds
+[01:08:26] [Server thread/INFO]: Saving chunks for level 'Test World'/Overworld
+[01:08:26] [Server thread/INFO]: Saving chunks for level 'Test World'/Nether
+[01:08:26] [Server thread/INFO]: Saving chunks for level 'Test World'/The End
+[01:08:26] [Server thread/INFO]: Saving chunks for level 'Test World'/Wyvern Lair
+[01:08:26] [Server thread/INFO]: Saving chunks for level 'Test World'/The Last Millenium
+[01:08:26] [Server thread/INFO]: Unloading dimension 0
+[01:08:26] [Server thread/INFO]: Unloading dimension -1
+[01:08:26] [Server thread/INFO]: Unloading dimension 1
+[01:08:26] [Server thread/INFO]: Unloading dimension -17
+[01:08:26] [Server thread/INFO]: Unloading dimension -112
+[01:08:28] [Server thread/INFO]: Applying holder lookups
+[01:08:28] [Server thread/INFO]: Holder lookups applied
+[01:08:28] [pool-6-thread-1/INFO]: ServerChannelRegister: Dimensional Transceiver data saved to D:\Users\Kael\Desktop\MultiMC\instances\Hupiii Pack\minecraft\saves\Test World\enderio\dimensionalTransceiver.json
+[01:08:28] [Server thread/INFO]: RFTools: server is stopping. Shutting down gracefully
+[01:08:28] [Server thread/INFO]: Cleaning up RFTools dimensions
+[01:08:28] [Client thread/INFO]: VoiceServer: Stopping client connection...
+[01:08:28] [Client thread/INFO]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[01:08:28] [Client thread/INFO]: Reloaded config.
+[01:08:29] [Client thread/INFO]: Stopping!
+[01:08:29] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[01:08:29] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[01:08:30] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[01:08:30] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
