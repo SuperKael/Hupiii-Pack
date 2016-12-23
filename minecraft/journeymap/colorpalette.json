@@ -1,7 +1,7 @@
 var colorpalette={
   "version": 3,
   "name": "JourneyMap Color Palette",
-  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Thu Dec 22 20:54:35 EST 2016",
+  "generated": "Generated using JourneyMap 5.1.4p1 Unlimited for 1.7.10 on Thu Dec 22 21:10:20 EST 2016",
   "description": [
     "This file can be used to keep map colors consistent when changing resource packs.",
     "Edit at your own risk. You can view it using the colorpalette.html file.",
@@ -29840,7 +29840,7 @@ var colorpalette={
       "color": "#a679a6"
     },
     {
-      "name": "QED (Quantum Entanglement Diviner)",
+      "name": "QED (Quod Erat Demonstrandum)",
       "uid": "ExtraUtilities:endConstructor",
       "meta": 0,
       "color": "#3d5a45"
