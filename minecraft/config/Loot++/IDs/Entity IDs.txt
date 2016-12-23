@@ -99,7 +99,6 @@ Enderman
 EntityFluidCow
 EntityHorse
 EyeOfEnderSignal
-FakeChairEntity
 FallingSand
 Fireball
 FireworksRocketEntity
@@ -108,6 +107,7 @@ Forestry.cart.apiary
 Forestry.cart.beehouse
 Ghast
 Giant
+GraviGun.gravigun_entityblock
 IC2.BoatCarbon
 IC2.BoatElectric
 IC2.BoatRubber
@@ -250,6 +250,14 @@ Ozelot
 Painting
 Pig
 PigZombie
+PortalGun.portal_entityapg
+PortalGun.portal_entityball
+PortalGun.portal_entityblock
+PortalGun.portal_entitybullet
+PortalGun.portal_entitycube
+PortalGun.portal_entityhep
+PortalGun.portal_entityradio
+PortalGun.portal_entityturret
 PrimedTnt
 Railcraft.ItemFireproof
 Railcraft.ItemFirestone
@@ -647,11 +655,11 @@ withercrumbs.Wither_Crumb
 ## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
 5 - cpc:pewds
 6 - cpc:cry
-32 - DragonMount
-33 - EntityFluidCow
-34 - Blizz
-35 - Blitz
-36 - Basalz
+31 - DragonMount
+32 - EntityFluidCow
+33 - Blizz
+34 - Blitz
+35 - Basalz
 50 - Creeper
 51 - Skeleton
 52 - Spider
